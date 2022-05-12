@@ -6,7 +6,7 @@
 				<p><a href="https://www.mageants.com/geo-ip-store-switcher-for-magento-2.html">Magento 2 GeoIP Store Switcher</a> extension helps detect customer location and redirect them according to their targeting nature, such as their region-specific language, currency, and targeted local products.</p>
 				
 <div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Store Switcher Popup</li>
 						<li>Automatic Location Detection Of Visitors</li>
